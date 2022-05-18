@@ -28,10 +28,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img
 </div>
-
-</td></tr></table>  
-
-<br/>  
 ### 可用项目模板
 - [zhoukai_utils 工具库](https://github.com/EightDoor/zhoukai_utils)
 - [uni-app-vue3](https://github.com/EightDoor/uniapp-vue3-project)
