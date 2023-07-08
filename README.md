@@ -1,7 +1,4 @@
 ## 👋 你好 我是周凯
-## 前端开发 学无止境
-
-
 ### 访问次数
 ![Visitor Count](https://profile-counter.glitch.me/EightDoor/count.svg)
 ### 常用语言
