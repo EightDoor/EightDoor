@@ -29,7 +29,6 @@
 </div>
 
 ### 可用项目模板
-- [zhoukai_utils 工具库](https://github.com/EightDoor/zhoukai_utils)
 - [uni-app-vue3](https://github.com/EightDoor/uniapp-vue3-project)
 - [uni-app-echarts](https://github.com/EightDoor/uni-app-echart)
 - [vue3 大屏](https://github.com/EightDoor/large-screen)
