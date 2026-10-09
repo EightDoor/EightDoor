@@ -15,21 +15,13 @@
 
 每一行代码，都是成长的见证。
 
-## ⭐ 精选项目
 
-| 项目 | 说明 |
-|------|------|
-| [vue3-admin](https://github.com/EightDoor/vue3-admin) | Vue3 + Vite + Nest 的后台管理框架 |
-| [vue3-admin-nest](https://github.com/EightDoor/vue3-admin-nest) | vue3-admin 的 Node.js 版本 |
-| [yuque](https://github.com/EightDoor/yuque) | 语雀 Linux 客户端 |
-| [uni-app-echart](https://github.com/EightDoor/uni-app-echart) | uni-app 小程序集成 ECharts |
-
-## 📈 GitHub 统计
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EightDoor&locale=zh_Hans" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=EightDoor&locale=en" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=EightDoor&show_icons=true&locale=zh_Hans" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EightDoor&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
 ## 🔗 联系方式
